@@ -4,7 +4,7 @@ Week 1 Assignment HTML
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Page Title</title>
+<title>Week 1</title>
 </head>
 <body>
 <h1>Week 1 Assignment</h1>
